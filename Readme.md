@@ -6,4 +6,4 @@ Durante o curso, você aprende como as metodologias ágeis permitem maior flexib
 
 #### Imagem de uma Sessão de Planejamento Scrum
 
-![Scrum-image](image.png)
+![Scrum-image](/assets/img/image.png)
