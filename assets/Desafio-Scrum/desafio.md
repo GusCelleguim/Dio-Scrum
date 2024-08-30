@@ -1,3 +1,16 @@
+
+## Desafio 
+
+
+<p>
+
+Analisar a aplicação de Scrum no Mercado Livre envolve avaliar como a metodologia ágil pode estar sendo usada na gestão de projetos e no desenvolvimento de produtos digitais dentro da empresa. Embora eu não tenha acesso direto aos processos internos do Mercado Livre, posso fazer uma análise com base nas práticas conhecidas de empresas que adotam o Scrum, considerando o escopo e as características do Mercado Livre.
+
+
+</p>
+
+------------------------------
+
 🌐 Visão Geral do Mercado Livre
 O Mercado Livre é uma das maiores plataformas de e-commerce da América Latina, oferecendo um vasto marketplace para compra e venda de produtos, além de serviços financeiros, de logística e outros recursos tecnológicos. Para manter a competitividade e a inovação, a empresa precisa responder rapidamente às demandas do mercado e melhorar constantemente seus produtos e serviços.
 
@@ -18,6 +31,8 @@ Após cada Sprint, a equipe do Mercado Livre realizaria uma Sprint Review para d
 A capacidade do Mercado Livre de se adaptar rapidamente às mudanças do mercado é um dos maiores benefícios de usar o Scrum. Com novas demandas surgindo frequentemente, como a necessidade de suportar um maior volume de transações durante eventos como a Black Friday, as equipes podem replanejar e redirecionar seus esforços rapidamente.
 
 Além disso, devido ao tamanho e à complexidade da operação, o Mercado Livre pode estar utilizando Scrum em Escala, como o framework Scaled Agile Framework (SAFe), para coordenar várias equipes Scrum que trabalham em diferentes partes do sistema.
+
+<br>
 
 📈 Benefícios do Scrum no Mercado Livre
 Agilidade e Inovação Contínua: A metodologia Scrum permite que o Mercado Livre continue inovando e melhorando suas ofertas de produtos e serviços, respondendo rapidamente às novas tendências e demandas do mercado.
